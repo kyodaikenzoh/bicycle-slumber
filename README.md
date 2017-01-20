@@ -1,2 +1,2 @@
-# bubble
+# 泡　１
 novel
